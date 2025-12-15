@@ -41,7 +41,15 @@ MySQL is used as the backend database to store student details, marks, and user 
 ---
 
 ## Screenshots
-Screenshots of the application UI are available in the `screenshots/` folder.
+
+### Login Portal
+![Login Portal](Screenshots/Login_Portal.png)
+
+### Main Menu
+![Main Menu](Screenshots/Main_Menu.png)
+
+### Report Card
+![Report Card](Screenshots/Report_Card.png)
 
 ---
 
